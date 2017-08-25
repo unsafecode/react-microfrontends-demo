@@ -1,5 +1,5 @@
 {
-  "name": "@unsafecode/react-microfrontend-feature1",
+  "name": "@unsafecode/react-microfrontend-catalog",
   "version": "1.0.0",
   "description": "feature1 React component",
   "main": "lib/index.js",
